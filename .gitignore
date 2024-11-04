@@ -1,0 +1,7 @@
+.env
+amenaza_forestal_2024.json
+amenaza_incendio.json
+*.obsolete.js
+.sql
+
+/node_modules
